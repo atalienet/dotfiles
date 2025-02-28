@@ -1,3 +1,4 @@
+[日本語版を表示する](./README_ja.md)
 # Atalie's Dotfiles
 
 ## Overview
