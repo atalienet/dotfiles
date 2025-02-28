@@ -1,3 +1,5 @@
+このREADMEは誘導用です。
+詳しい使用技術や使い方は、[###現在利用可能な設定](#現在利用可能な設定) にあるREADMEをご確認ください。
 # AtalieのDotfiles
 
 ## 概要
@@ -6,7 +8,7 @@
 
 ## 対応環境
 
-### 現在利用可能
+### 現在利用可能な設定
 - Apple Silicon搭載のmacOS  
   - セットアップ手順については、[./nix-darwin/README_ja.md](./nix-darwin/README_ja.md) を参照してください
 
