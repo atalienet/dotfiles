@@ -8,7 +8,7 @@
 
 ### 現在利用可能
 - Apple Silicon搭載のmacOS  
-  - セットアップ手順については、[./nix-darwin/README.md](./nix-darwin/README.md) を参照してください
+  - セットアップ手順については、[./nix-darwin/README.md](./nix-darwin/README_ja.md) を参照してください
 
 ### 今後の予定
 - その他の環境向けの設定は現在開発中です
