@@ -1,4 +1,6 @@
-[日本語版を表示する](./README_ja.md)
+#### [日本語版を表示する](./README_ja.md)
+This README is for guidance only.
+For detailed usage techniques and instructions, see the README in [###Currently_Available](#currently-available)).
 # Atalie's Dotfiles
 
 ## Overview
