@@ -1,3 +1,4 @@
+[日本語版を表示する](./README_ja.md)
 # Nix Darwin Dotfiles
 
 A comprehensive dotfiles setup for Apple Silicon Macs using nix-darwin. Configure your entire macOS environment with a single command!
